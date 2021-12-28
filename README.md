@@ -22,6 +22,7 @@ React, Typescript, SCSS, NodeJS, ExpressJS, Postgres, Mocha, CI/CD, Git, GitHub
 ```
 - Helped maintain an online multiplayer browser game that serves 20,000+ weekly clients
 - Improved user experience by restyling outdated web pages and fixing bugs
+- Ensured code stability by writing unit tests with Mocha
 - Worked collaboratively with a team via Git and GitHub
 
 ### Mentor @ Mintbean, June 2021 – Present 
