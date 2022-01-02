@@ -10,7 +10,7 @@ Currently working towards my computer science degree in CSULB.
 	
 ## Technical Toolkit
 ```js
- Frontend: [React, Typescript, HTML, CSS, SCSS, Styled Components, JavaScript, ES6]
+ Frontend: [React, Typescript, HTML, CSS, SCSS, Styled Components, Tailwind, JavaScript, ES6]
  Backend: [Node.js, Express.js, REST, PostgreSQL, MongoDB, AWS, Heroku, CI/CD]
  Other: [Unit Testing, Mocha, Jest, Git, GitHub, UX/UI Design, Figma, Visual Studio Code]
 ```
