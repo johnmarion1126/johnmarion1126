@@ -1,6 +1,6 @@
 # John Marion Sanchez
 ### Web Developer 
-johnmarion1126@gmail.com | [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/) | [Portfolio]()
+johnmarion1126@gmail.com | [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/) | [Website](https://johnmarion1126.github.io/)
 
 ```bash
 I'm a web developer from the United States.
