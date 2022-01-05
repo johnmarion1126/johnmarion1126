@@ -15,8 +15,11 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/johnmario
 ![](https://img.shields.io/static/v1?message=Express&logo=express&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Mocha&logo=mocha&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=VSCode&logo=visualstudiocode&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Figma&logo=figma&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=johnmarion1126&show_icons=true&theme=prussian"/>
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=johnmarion1126&show_icons=true&theme=prussian"/>
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarion1126&hide=html&langs_count=3&theme=prussian" />
