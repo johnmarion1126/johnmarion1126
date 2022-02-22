@@ -1,6 +1,6 @@
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is John and I'm a Web Developer from the US. <br>
+My name is John and I'm a Full Stack Developer from the US. <br>
 You can connect with me through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/). <br>
 
 ## Technologies & Tools
