@@ -1,7 +1,7 @@
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is John and I'm a Software Developer from the US. <br>
-You can connect with me through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/). <br>
+You can connect with me through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/) and find my games on [itch](https://johncoding.itch.io/). <br>
 
 ## Technologies & Tools
 ![](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
