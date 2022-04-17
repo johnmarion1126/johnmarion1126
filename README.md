@@ -25,4 +25,4 @@ You can connect with me through my [LinkedIn](https://www.linkedin.com/in/johnma
 
 ## Stats
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=johnmarion1126&show_icons=true&theme=prussian"/>
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarion1126&hide=html&langs_count=3&theme=prussian" />
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarion1126&hide=jupyter%20notebook&langs_count=3&theme=prussian" />
