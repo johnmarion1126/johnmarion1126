@@ -1,4 +1,4 @@
-## Hello, World! 🌎
+## Hello, World! 
 
 My name is John and I'm a Software Engineer from the US. <br>
 You can connect with me through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/) and find my games on [itch](https://johncoding.itch.io/). <br>
