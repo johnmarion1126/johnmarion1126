@@ -1,28 +1,22 @@
-## Hello, World! 
+## Hello, World! :wave:
 
 My name is John and I'm a Software Engineer from the US. <br>
-You can connect with me through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/) and find my games on [itch](https://johncoding.itch.io/). <br>
+If you want to connect, you can do so through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/). <br>
 
 ## Technologies & Tools
-![](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=SASS&logo=sass&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=TailwindCSS&logo=tailwindcss&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Redux&logo=redux&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
 
-![](https://img.shields.io/static/v1?message=Node&logo=node.js&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Express&logo=express&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=GraphQL&logo=graphql&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Mocha&logo=mocha&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=VSCode&logo=visualstudiocode&labelColor=5c5c5c&color=2a6fad&logoColor=white&label=%20)
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,redux,tailwind,react)](https://skillicons.dev)
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,prisma,postgres,mongodb,redis)](https://skillicons.dev)
+
+### Other
+
+[![My Skills](https://skillicons.dev/icons?i=rust,py,java,unity,vim,vscode,figma,git)](https://skillicons.dev)
 
 ## Stats
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=johnmarion1126&show_icons=true&theme=prussian"/>
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarion1126&hide=jupyter%20notebook&langs_count=3&theme=prussian" />
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=johnmarion1126&show_icons=true&theme=tokyonight"/>
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarion1126&hide=jupyter%20notebook&langs_count=3&theme=tokyonight" />
