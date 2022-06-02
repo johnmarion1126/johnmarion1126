@@ -1,7 +1,7 @@
 ## Hello, World! :wave:
 
 My name is John and I'm a Software Engineer from the US. <br>
-If you want to connect, you can do so through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/). <br>
+If you want to connect, you can find me through my [LinkedIn](https://www.linkedin.com/in/johnmarionsanchez/). <br>
 
 ## Technologies & Tools
 
