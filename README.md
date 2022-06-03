@@ -7,15 +7,15 @@ If you want to connect, you can find me through my [LinkedIn](https://www.linked
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,redux,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,redux,tailwind,react)](https://skillicons.dev)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,prisma,postgres,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### Other
 
-[![My Skills](https://skillicons.dev/icons?i=rust,py,java,unity,vim,vscode,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,java,unity,vim,vscode,figma)](https://skillicons.dev)
 
 ## Stats
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=johnmarion1126&show_icons=true&theme=tokyonight"/>
