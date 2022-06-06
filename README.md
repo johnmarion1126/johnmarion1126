@@ -7,7 +7,7 @@ If you want to connect, you can find me through my [LinkedIn](https://www.linked
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,redux,scss,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,redux,tailwind,react)](https://skillicons.dev)
 
 ### Backend
 
