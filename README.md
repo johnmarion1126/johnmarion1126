@@ -15,7 +15,7 @@ If you want to connect, you can find me through my [LinkedIn](https://www.linked
 
 ### Other
 
-[![My Skills](https://skillicons.dev/icons?i=rust,py,java,cs,unity,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,java,unity,figma,vscode,vim)](https://skillicons.dev)
 
 ## Stats
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=johnmarion1126&show_icons=true&theme=tokyonight"/>
